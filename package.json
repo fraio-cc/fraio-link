@@ -1,0 +1,33 @@
+{
+  "name": "fraio-link",
+  "version": "0.1.0",
+  "private": false,
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.47.10",
+    "bcrypt": "^5.1.1",
+    "nanoid": "^5.0.9",
+    "next": "16.1.6",
+    "next-auth": "^5.0.0-beta.25",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "react-qrcode-logo": "^4.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/bcrypt": "^5.0.2",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.6",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
