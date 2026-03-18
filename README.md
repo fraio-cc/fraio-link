@@ -1,5 +1,9 @@
 # 🔗 Fraio Link
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/fraio-cc/fraio-link)
+![License](https://img.shields.io/github/license/fraio-cc/fraio-link)
+![Stars](https://img.shields.io/github/stars/fraio-cc/fraio-link)
+
 Next.js 16, TypeScript ve Tailwind CSS ile geliştirilmiş modern, açık kaynaklı URL kısaltıcı.
 
 ## ✨ Özellikler
